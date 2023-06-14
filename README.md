@@ -1,6 +1,8 @@
 # ERC6551 resources
 
-\*\*
+A curated list of Tokenbound Account (TBA) standard also known as ERC6551. List of libraries, tools, learning materials and more.
+
+Please check the contribution guidelines for information on formatting and writing pull requests.
 
 ## Official links
 
@@ -27,8 +29,6 @@ https://twitter.com/erc6551
 
 Jayden Windle is one of the authors of the ERC-6551 Non-fungible Token Bound Accounts proposal. His Twitter account might contain valuable insights, discussions, and updates regarding the ERC-6551 standard and Token Bound Accounts:
 https://twitter.com/jayden_windle
-
-https://twitter.com/BennyGiang - one of the key figures behind the ERC6551
 
 ## Twitter posts/threads
 
@@ -102,7 +102,9 @@ https://medium.com/push-protocol/introducing-push-nft-chat-chats-and-comms-tied-
 ## Communities and stats
 
 https://t.me/tokenbound - Tokenbound Working Group (ERC 6551)
+
 https://discord.gg/vhwfs6h2hQ -The Managers discord group - check 6551 education section
+
 https://dune.com/sealaunch/erc-6551 - Dune Analytics
 
 ## NFT Projects
@@ -112,4 +114,5 @@ https://www.sapienz.xyz/ - one of the first ERC6551 NFT collections
 https://www.apes.page/ - ERC6551 in the BAYC ecosystem
 
 https://opensea.io/collection/items-from-the-garage-6551 -The Garage 6551 brings another utilization of ERC6551
+
 https://lombaby.io/en/ - Dune analytics states that this project uses ERC6551
