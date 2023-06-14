@@ -1,8 +1,14 @@
-# ERC6551 resources
+  <h1 align="center">ERC6551 resources</h1>
+  <p align="center">
 
-A curated list of Tokenbound Account (TBA) standard also known as ERC6551. List of libraries, tools, learning materials and more.
+    <a href="http://makeapullrequest.com">
+      <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
+    </a>
 
-Please check the contribution guidelines for information on formatting and writing pull requests.
+  </p>
+
+  <p align="center">A curated list of Tokenbound Account (TBA) standard also known as ERC6551. List of libraries, tools, learning materials and more.</p>
+  <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
 
 ## Official links
 
