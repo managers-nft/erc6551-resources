@@ -60,7 +60,7 @@ https://twitter.com/templecrash/status/1668333437114015764?s=20
 Interesting view on additional value tokenbound accounts provide:
 https://twitter.com/SeaLaunch_/status/1667175648371023876?s=20
 
-## Tools
+## Code and tools
 
 Best way to learn about ERC6551 solidity code is going through tests in reference implementation in GitHub
 https://github.com/erc6551/reference/blob/main/test/examples/simple/SimpleERC6551Account.t.sol
@@ -118,5 +118,3 @@ https://www.sapienz.xyz/ - one of the first ERC6551 NFT collections
 https://www.apes.page/ - ERC6551 in the BAYC ecosystem
 
 https://opensea.io/collection/items-from-the-garage-6551 -The Garage 6551 brings another utilization of ERC6551
-
-https://lombaby.io/en/ - Dune analytics states that this project uses ERC6551
