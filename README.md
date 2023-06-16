@@ -60,6 +60,9 @@ https://twitter.com/templecrash/status/1668333437114015764?s=20
 Interesting view on additional value tokenbound accounts provide:
 https://twitter.com/SeaLaunch_/status/1667175648371023876?s=20
 
+How ERC6551 actualy works
+https://twitter.com/0xCygaar/status/1669365849487187968?s=20
+
 ## Code and tools
 
 Best way to learn about ERC6551 solidity code is going through tests in reference implementation in GitHub
@@ -118,3 +121,5 @@ https://www.sapienz.xyz/ - one of the first ERC6551 NFT collections
 https://www.apes.page/ - ERC6551 in the BAYC ecosystem
 
 https://opensea.io/collection/items-from-the-garage-6551 -The Garage 6551 brings another utilization of ERC6551
+
+https://themanagers.wtf/ - NFT Collection using 6551 from launch (Coming Soon)
