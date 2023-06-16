@@ -116,10 +116,10 @@ https://dune.com/sealaunch/erc-6551 - Dune Analytics
 
 ## NFT Projects
 
-https://www.sapienz.xyz/ - one of the first ERC6551 NFT collections
+https://www.sapienz.xyz/ - First NFT collection made by creators of 6551
 
 https://www.apes.page/ - ERC6551 in the BAYC ecosystem
 
 https://opensea.io/collection/items-from-the-garage-6551 -The Garage 6551 brings another utilization of ERC6551
 
-https://themanagers.wtf/ - NFT Collection using 6551 from launch (Coming Soon)
+https://themanagers.wtf/ - one of the first ERC6551 NFT collections (Coming Soon)
