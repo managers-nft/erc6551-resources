@@ -118,8 +118,9 @@ https://dune.com/sealaunch/erc-6551 - Dune Analytics
 
 https://www.sapienz.xyz/ - First NFT collection made by creators of 6551
 
+https://themanagers.wtf/ - Fft with primary purpose to act as a wallet(6551 standard) and unlock your digital identity
+
 https://www.apes.page/ - ERC6551 for the BAYC ecosystem
 
 https://opensea.io/collection/items-from-the-garage-6551 -The Garage 6551 brings another utilization of ERC6551
 
-https://themanagers.wtf/ - one of the first ERC6551 NFT collections (Coming Soon)
