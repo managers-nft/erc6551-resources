@@ -106,6 +106,9 @@ https://en.cryptonomist.ch/2023/05/30/ethereum-news-new-erc-6551-standard/
 Chats and Communication Tied to Your NFTs:
 https://medium.com/push-protocol/introducing-push-nft-chat-chats-and-comms-tied-to-your-nfts-done-right-98717c04438d
 
+Letter 41: ERC-6551 & The Future of NFTs
+https://zeneca33.substack.com/p/letter-41-erc-6551-and-the-future
+
 ## Communities and stats
 
 https://t.me/tokenbound - Tokenbound Working Group (ERC 6551)
