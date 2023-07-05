@@ -109,6 +109,9 @@ https://medium.com/push-protocol/introducing-push-nft-chat-chats-and-comms-tied-
 Letter 41: ERC-6551 & The Future of NFTs
 https://zeneca33.substack.com/p/letter-41-erc-6551-and-the-future
 
+How 6551 has potential to change fashion
+https://thenakedcollector.substack.com/p/how-erc-6551-will-change-digital?utm_medium=email
+
 ## Communities and stats
 
 https://t.me/tokenbound - Tokenbound Working Group (ERC 6551)
