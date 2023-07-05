@@ -109,8 +109,11 @@ https://medium.com/push-protocol/introducing-push-nft-chat-chats-and-comms-tied-
 Letter 41: ERC-6551 & The Future of NFTs
 https://zeneca33.substack.com/p/letter-41-erc-6551-and-the-future
 
-How 6551 Has potential to change Fashion
+How 6551 Has the Potential to Change Fashion
 https://thenakedcollector.substack.com/p/how-erc-6551-will-change-digital?utm_medium=email
+
+CR3 Labs view on ERC6551
+https://research.cr3labs.com/p/what-are-token-bound-accounts
 
 ## Communities and stats
 
