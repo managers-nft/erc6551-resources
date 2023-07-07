@@ -65,6 +65,9 @@ https://twitter.com/0xCygaar/status/1669365849487187968?s=20
 
 ## Code and tools
 
+Full Hardhat implementation of ERC 721A with ERC 6551, open-sourced by the Managers project
+https://github.com/managers-nft/erc6551-implementation
+
 The best way to learn about ERC6551 solidity code is by going through tests in reference implementation on GitHub
 https://github.com/erc6551/reference/blob/main/test/examples/simple/SimpleERC6551Account.t.sol
 
@@ -76,7 +79,7 @@ Here is also an independent JS library to interact with 6551 contracts [https://
 In Eth Lisbon there was a project using 6551 here is the repo that they made which might be helpful
 [https://github.com/timothyshen/ethlisbon](https://github.com/timothyshen/ethlisbon "https://github.com/timothyshen/ethlisbon")
 
-Here is a repo from FuturePrimitives, guys developing this standard, and their MVP project done also on hackathon
+Here is a repo from FuturePrimitives, guys developing this standard, and their MVP project made on hackathon
 [https://github.com/FUTUREPRIMITIVEXYZ/bead-dao](https://github.com/FUTUREPRIMITIVEXYZ/bead-dao "https://github.com/FUTUREPRIMITIVEXYZ/bead-dao")
 
 ## Media
