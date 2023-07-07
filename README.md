@@ -82,6 +82,9 @@ In Eth Lisbon there was a project using 6551 here is the repo that they made whi
 Here is a repo from FuturePrimitives, guys developing this standard, and their MVP project made on hackathon
 [https://github.com/FUTUREPRIMITIVEXYZ/bead-dao](https://github.com/FUTUREPRIMITIVEXYZ/bead-dao "https://github.com/FUTUREPRIMITIVEXYZ/bead-dao")
 
+This code provides an extension to EIP-6551 adding support for delegate.cash and warm.xyz.
+https://github.com/CR3Labs/erc-6551-delegate-extension
+
 ## Media
 
 An Intro to ERC 6551 (Token Bound Accounts) - Jayden Windle: https://youtu.be/B1pTfxAG4U8
